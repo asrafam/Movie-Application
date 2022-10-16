@@ -1,2 +1,4 @@
 *.SCSS linguist-detectable=false
 *.React linguist-detectable=true
+*.css linguist-detectable=false
+*.scss linguist-detectable=false
